@@ -1,0 +1,1 @@
+toda e qualquer ia chatbot desenvolvido nessa pasta é apenas para conotação de ensino e não possui relação com o nosso projeto que esta sendo desenvolvido
